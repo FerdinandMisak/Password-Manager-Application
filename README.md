@@ -1,4 +1,4 @@
-This code is able to store a website name, an email address and a password if you click on the Add button.
+This code is able to store a website name, an email address and a password if you give the datas in the labels and click on the Add button.
 
 If you want to generate a password for the given homepage you can create one with the Generate Password button.
 
